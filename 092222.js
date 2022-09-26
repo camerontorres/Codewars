@@ -6,5 +6,4 @@ function doubleChar(str) {
     {
       newStr += str[current] + str[current]; }
    
-    return newStr  
-  }
+    return newStr  }
