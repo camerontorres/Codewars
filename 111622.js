@@ -9,6 +9,15 @@ function makeNegative(num) {
   
   
   //seeing the solutions after i finished, I now know i can simply return (-num) to return a negative value, this would have been a little simpler.
+  // my simplified code would be this:
+  
+  //********
+  
+  function makeNegative(num) {
+ return num <= 0 ? num : -num
+  }
+  
+  ******//
   
   
 }
